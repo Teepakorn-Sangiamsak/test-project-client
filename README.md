@@ -88,6 +88,25 @@ export default AppRoutes
 
 
 ## Step ? Sweetalert2
+https://sweetalert2.github.io/
 ```bash
 npm install sweetalert2
+```
+
+## Step 4 React-Hook-form
+https://www.react-hook-form.com/get-started
+```bash
+npm install react-hook-form
+```
+
+## Step 5 Lucide-React
+https://lucide.dev/guide/installation
+```bash
+npm install lucide-react
+```
+
+## Step 6 Validate wiht Zod
+```bash
+npm install @hookform/resolvers
+npm i zod
 ```
